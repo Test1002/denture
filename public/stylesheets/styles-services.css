@@ -1,0 +1,30 @@
+header.page-header .header-2 li:nth-of-type(2) a {
+	margin: -2px;
+	border: 2px solid rgb(255, 255, 251);
+	border-radius: 10px;
+	box-shadow: inset 0px 4px 5.76px 0.24px rgba(0, 0, 0, 0.06);
+}
+p {
+	padding-top: 0;
+	margin-top: 15px;
+}
+a {
+	color: rgb(151, 188, 193);
+	text-decoration: none;
+}
+.main-content .layout-positioner .wrap .layout-column-2 .services .service-image {
+	float:left;
+	width:300px;
+}
+.main-content .layout-positioner .wrap .layout-column-2 .services .service-image img {
+	max-width: 300px;
+	min-width: 300px;
+}
+.main-content .layout-positioner .wrap .layout-column-2 .services .service-description {
+	float:right;
+	width: 450px;
+}
+
+.main-content .layout-positioner .wrap .layout-column-2 .service {
+	margin-bottom: 15px;
+}

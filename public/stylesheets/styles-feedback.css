@@ -1,0 +1,25 @@
+header.page-header .header-2 li:nth-of-type(4) a {
+	margin: -2px;
+	border: 2px solid rgb(255, 255, 251);
+	border-radius: 10px;
+	box-shadow: inset 0px 4px 5.76px 0.24px rgba(0, 0, 0, 0.06);
+}
+.main-content .layout-positioner .wrap .layout-column-2 .comment > p {
+	color: rgb(151, 188, 193);
+	font-size:22px;
+}
+.main-content .layout-positioner .wrap .layout-column-2 .userPic {
+	float:left;
+	width:30%;
+	text-align:center;
+}
+.main-content .layout-positioner .wrap .layout-column-2 img {
+	max-width: 200px;
+}
+.main-content .layout-positioner .wrap .layout-column-2 .userComment {
+	float:right;
+	width:65%;	
+}
+.main-content .layout-positioner .wrap .layout-column-2 .userComment p {
+	margin: 0;
+}
